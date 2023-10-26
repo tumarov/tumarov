@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://gitlab.com/users/tumarov/projects
+https://gitlab.com/tumarov
 
 <!--
 **tumarov/tumarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
